@@ -1,0 +1,7 @@
+{
+  "C_Cpp.default.compilerPath": "/usr/bin/clang",
+  "cmake.sourceDirectory": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission1_Release_updated",
+  "files.associations": {
+    "vector": "cpp"
+  }
+}

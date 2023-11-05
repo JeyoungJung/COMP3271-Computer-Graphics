@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/build",
+  "command": "/usr/bin/clang  -I/System/Library/Frameworks -I/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission1_Release_updated/thirdparty/glad/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/Main.dir/thirdparty/glad/src/glad.c.o -c /Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission1_Release_updated/thirdparty/glad/src/glad.c",
+  "file": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission1_Release_updated/thirdparty/glad/src/glad.c",
+  "output": "CMakeFiles/Main.dir/thirdparty/glad/src/glad.c.o"
+},
+{
+  "directory": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/build",
+  "command": "/usr/bin/clang++  -I/System/Library/Frameworks -I/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission1_Release_updated/thirdparty/glad/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/Main.dir/main.cpp.o -c /Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission1_Release_updated/main.cpp",
+  "file": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission1_Release_updated/main.cpp",
+  "output": "CMakeFiles/Main.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/build",
+  "command": "/usr/bin/clang++  -I/System/Library/Frameworks -I/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission1_Release_updated/thirdparty/glad/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/Main.dir/code.cpp.o -c /Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission1_Release_updated/code.cpp",
+  "file": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission1_Release_updated/code.cpp",
+  "output": "CMakeFiles/Main.dir/code.cpp.o"
+}
+]

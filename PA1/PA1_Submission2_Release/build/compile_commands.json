@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/build",
+  "command": "/usr/bin/clang  -I/System/Library/Frameworks -I/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/thirdparty/glad/include -I/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/thirdparty/glm -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/Main.dir/thirdparty/glad/src/glad.c.o -c /Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/thirdparty/glad/src/glad.c",
+  "file": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/thirdparty/glad/src/glad.c",
+  "output": "CMakeFiles/Main.dir/thirdparty/glad/src/glad.c.o"
+},
+{
+  "directory": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/build",
+  "command": "/usr/bin/clang++  -I/System/Library/Frameworks -I/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/thirdparty/glad/include -I/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/thirdparty/glm -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/Main.dir/MainFrame.cpp.o -c /Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/MainFrame.cpp",
+  "file": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/MainFrame.cpp",
+  "output": "CMakeFiles/Main.dir/MainFrame.cpp.o"
+},
+{
+  "directory": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/build",
+  "command": "/usr/bin/clang++  -I/System/Library/Frameworks -I/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/thirdparty/glad/include -I/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/thirdparty/glm -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/Main.dir/Main.cpp.o -c /Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/Main.cpp",
+  "file": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/Main.cpp",
+  "output": "CMakeFiles/Main.dir/Main.cpp.o"
+},
+{
+  "directory": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/build",
+  "command": "/usr/bin/clang++  -I/System/Library/Frameworks -I/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/thirdparty/glad/include -I/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/thirdparty/glm -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/Main.dir/Mesh.cpp.o -c /Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/Mesh.cpp",
+  "file": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/Mesh.cpp",
+  "output": "CMakeFiles/Main.dir/Mesh.cpp.o"
+},
+{
+  "directory": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/build",
+  "command": "/usr/bin/clang++  -I/System/Library/Frameworks -I/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/thirdparty/glad/include -I/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/thirdparty/glm -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -std=gnu++14 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -o CMakeFiles/Main.dir/Camera.cpp.o -c /Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/Camera.cpp",
+  "file": "/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA1/PA1_Submission2_Release/Camera.cpp",
+  "output": "CMakeFiles/Main.dir/Camera.cpp.o"
+}
+]

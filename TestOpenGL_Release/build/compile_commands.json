@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/jayjung/Dev/Computer Graphics/TestOpenGL_Release/build",
+  "command": "/usr/bin/clang  -I/System/Library/Frameworks -I\"/Users/jayjung/Dev/Computer Graphics/TestOpenGL_Release/thirdparty/glad/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/TestOpenGL.dir/thirdparty/glad/src/glad.c.o -c \"/Users/jayjung/Dev/Computer Graphics/TestOpenGL_Release/thirdparty/glad/src/glad.c\"",
+  "file": "/Users/jayjung/Dev/Computer Graphics/TestOpenGL_Release/thirdparty/glad/src/glad.c",
+  "output": "CMakeFiles/TestOpenGL.dir/thirdparty/glad/src/glad.c.o"
+},
+{
+  "directory": "/Users/jayjung/Dev/Computer Graphics/TestOpenGL_Release/build",
+  "command": "/usr/bin/clang++  -I/System/Library/Frameworks -I\"/Users/jayjung/Dev/Computer Graphics/TestOpenGL_Release/thirdparty/glad/include\" -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk/System/Library/Frameworks -isystem /opt/homebrew/include -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -o CMakeFiles/TestOpenGL.dir/TestOpenGL.cpp.o -c \"/Users/jayjung/Dev/Computer Graphics/TestOpenGL_Release/TestOpenGL.cpp\"",
+  "file": "/Users/jayjung/Dev/Computer Graphics/TestOpenGL_Release/TestOpenGL.cpp",
+  "output": "CMakeFiles/TestOpenGL.dir/TestOpenGL.cpp.o"
+}
+]
