@@ -1,0 +1,3 @@
+/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA2/CMakeFiles/Main.dir
+/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA2/CMakeFiles/edit_cache.dir
+/Users/jayjung/Dev/COMP3271-Computer-Graphics/PA2/CMakeFiles/rebuild_cache.dir
