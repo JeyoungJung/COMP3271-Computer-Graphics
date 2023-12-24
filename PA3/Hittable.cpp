@@ -3,6 +3,19 @@
 void Sphere::Sample(HitRecord *hit_record, float &pdf) const
 {
     // TODO: Add your code here.
+    float randomNumber1 = get_random_float();
+    float randomNumber2 = get_random_float();
+    float theta, phi;
+
+    theta = 2 * M_PI * randomNumber1;
+    phi = M_PI / 2 * randomNumber2;
+
+    Vec dir(sin(phi) * cos(theta), cos(phi), sin(phi) * sin(theta));
+    hit_record->position = this->o_ + this->r_ * dir;
+    hit_record->normal = dir;
+    hit_record->material = material_;
+    hit_record->emission = emission;
+    pdf = 1;
 }
 
 void Quadric::Sample(HitRecord *hit_record, float &pdf) const
@@ -13,6 +26,14 @@ void Quadric::Sample(HitRecord *hit_record, float &pdf) const
 void Triangle::Sample(HitRecord *hit_record, float &pdf) const
 {
     // TODO: Add your code here.
+    float randomNumber1 = get_random_float();
+    float randomNumber2 = get_random_float();
+
+    Point p = a_ + randomNumber1 * (b_ - a_) + randomNumber2 * (c_ - a_);
+
+    hit_record->position = p;
+    hit_record->normal = n_a_;
+    pdf = 1;
 }
 
 void CompleteTriangle::Sample(HitRecord *hit_record, float &pdf) const
